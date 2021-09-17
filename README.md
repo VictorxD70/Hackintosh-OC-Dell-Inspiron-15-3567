@@ -7,8 +7,8 @@
 - USB Ports: 1x USB 2.0, 2x USB 3.0
 - Wifi / Bluetooth: QCA9565 / AR9565 Wireless Network Adapter
 - Ethernet: RTL810xE PCI Express Fast Ethernet Controller
-- Audio Adapter: Realtek ALC256 - High Definition Audio Controller
-- SDCard Adapter: Realtek RTS5129 Card Reader Controller
+- Audio: Realtek ALC256 - High Definition Audio Controller
+- SDCard: Realtek RTS5129 Card Reader Controller
 
 ## Big Sur / Monterey - Working Status:
 ### Big Sur (macOS 11):
