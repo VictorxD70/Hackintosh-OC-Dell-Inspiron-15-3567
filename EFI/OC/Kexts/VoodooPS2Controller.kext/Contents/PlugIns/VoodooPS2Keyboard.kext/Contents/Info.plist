@@ -245,9 +245,6 @@
 						</array>
 						<key>Custom PS2 Map</key>
 						<array>
-							<string>56=2b</string>
-							<string>29=56</string>
-							<string>2b=29</string>
 							<string>e01e=e037</string>
 							<string>e037=e01e</string>
 						</array>

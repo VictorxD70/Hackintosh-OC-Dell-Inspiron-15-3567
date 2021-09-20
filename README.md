@@ -1,7 +1,7 @@
 # Hackintosh OpenCore on Dell Inspiron 15-3567
 
 ## Specifications:
-- CPU: Intel Core i5 Kabylake, 7200U, 2.50 GHz
+- CPU: Intel Core i5 Kabylake, 7200U, 2.70 GHz
 - Display: 15.6” HD (1366 x 768)
 - GPU: Intel HD Graphics 620
 - USB Ports: 1x USB 2.0, 2x USB 3.0
