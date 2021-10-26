@@ -39,6 +39,7 @@
 - HDMI
 - All USB Ports
 - SDCard
+- AirPlay to Mac
 
 #### Not Working:
 - Wifi
