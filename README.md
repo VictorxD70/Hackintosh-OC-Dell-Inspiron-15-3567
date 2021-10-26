@@ -40,6 +40,7 @@
 - All USB Ports
 - SDCard
 - AirPlay to Mac
+- Universal Control
 
 #### Not Working:
 - Wifi
