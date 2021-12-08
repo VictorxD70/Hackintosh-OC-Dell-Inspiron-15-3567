@@ -298,6 +298,8 @@
 			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
 			<false/>
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
 			<key>SetupVirtualMap</key>
 			<true/>
 			<key>SignalAppleOS</key>
@@ -1384,7 +1386,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>alcid=21 watchdog=0 igfxonln=1 agdpmod=vit9696 -vi2c-force-polling</string>
+				<string>alcid=21 watchdog=0 igfxonln=1 agdpmod=pikera -vi2c-force-polling</string>
 				<key>csr-active-config</key>
 				<data>hwcAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1705,6 +1707,8 @@
 			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
+			<key>ResizeGpuBars</key>
+			<integer>-1</integer>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
