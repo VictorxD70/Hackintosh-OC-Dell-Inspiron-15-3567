@@ -10,7 +10,7 @@
 - Audio: Realtek ALC256 - High Definition Audio Controller
 - SDCard: Realtek RTS5129 Card Reader Controller
 
-## Big Sur / Monterey - Working Status:
+## macOS versions Working Status:
 ### Big Sur (macOS 11):
 #### Working:
 - Intel HD Graphics 620
@@ -28,7 +28,7 @@
 #### Not Working:
 - Airdrop
 
-### Monterey (macOS 12):
+### Monterey (macOS 12) / Ventura (macOS 13):
 #### Working:
 - Intel HD Graphics 620
 - Ethernet 
