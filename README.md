@@ -18,20 +18,20 @@
 
 ## Support
 
-### Wifi / Bluetooth
+### Wi-Fi / Bluetooth
 
-| Dispositivo | Catalina | BigSur | Monterey | Ventura |
+| Device | Catalina | BigSur | Monterey | Ventura |
 | :---: | :---: | :---: | :---: | :---: |
 | QCA9565 (DW1707) | Yes | Yes | No | No |
 | QCA9377 (DW1810) | Yes | Yes | No | No |
-| Intel 3165 | Yes | Yes | Yes | Yes | Yes |
-| Intel 7265 | Yes | Yes | Yes | Yes | Yes |
+| Intel 3165 | Yes | Yes | Yes | Yes |
+| Intel 7265 | Yes | Yes | Yes | Yes |
 
-**For Intel Wireless variants**: You need to install [Heliport](https://github.com/OpenIntelWireless/HeliPort/releases/latest/download/HeliPort.dmg) and use it to connect to Wifi networks.
+**For Intel Wireless variants**: You need to install [Heliport](https://github.com/OpenIntelWireless/HeliPort/releases/latest/download/HeliPort.dmg) and use it to connect to Wi-Fi networks.
 
 ### Others
 
-| Dispositivo | Catalina | BigSur | Monterey | Ventura |
+| Device | Catalina | BigSur | Monterey | Ventura |
 | :---: | :---: | :---: | :---: | :---: |
 | i3 / i5 / i7 | Yes | Yes | Yes | Yes | Yes |
 | HD Graphics 620 | Yes | Yes | Yes | Yes | Yes |
