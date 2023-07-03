@@ -33,15 +33,15 @@
 
 | Device | Catalina | BigSur | Monterey | Ventura |
 | :---: | :---: | :---: | :---: | :---: |
-| i3 / i5 / i7 | Yes | Yes | Yes | Yes | Yes |
-| HD Graphics 620 | Yes | Yes | Yes | Yes | Yes |
-| USB | Yes | Yes | Yes | Yes | Yes |
-| Ethernet | Yes | Yes | Yes | Yes | Yes |
-| ALC256 / 3246 | Yes | Yes | Yes | Yes | Yes |
-| SDCard | Yes | Yes | Yes | Yes | Yes |
-| Screen Brightness / F11, F12 Keys | Yes | Yes | Yes | Yes | Yes |
-| Touchpad | Yes | Yes | Yes | Yes | Yes |
-| HDMI | Yes | Yes | Yes | Yes | Yes |
+| i3 / i5 / i7 | Yes | Yes | Yes | Yes |
+| HD Graphics 620 | Yes | Yes | Yes | Yes |
+| USB | Yes | Yes | Yes | Yes |
+| Ethernet | Yes | Yes | Yes | Yes |
+| ALC256 / 3246 | Yes | Yes | Yes | Yes |
+| SDCard | Yes | Yes | Yes | Yes |
+| Screen Brightness / F11, F12 Keys | Yes | Yes | Yes | Yes |
+| Touchpad | Yes | Yes | Yes | Yes |
+| HDMI | Yes | Yes | Yes | Yes |
 
 ### Features
 
