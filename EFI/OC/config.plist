@@ -1497,7 +1497,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>alcid=21 watchdog=0 igfxonln=1 agdpmod=pikera -vi2c-force-polling</string>
+				<string>alcid=21 keepsyms=1 debug=0x100 revpatch=sbvmm watchdog=0 igfxonln=1 agdpmod=pikera -vi2c-force-polling</string>
 				<key>csr-active-config</key>
 				<data>hwcAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1540,9 +1540,9 @@
 			<key>ARTFrequency</key>
 			<integer>0</integer>
 			<key>BoardProduct</key>
-			<string>Mac-B4831CEBD52A0C4C</string>
+			<string>Mac-827FB448E656EC26</string>
 			<key>BoardRevision</key>
-			<data>Gw==</data>
+			<data>AQ==</data>
 			<key>DevicePathsSupported</key>
 			<integer>0</integer>
 			<key>FSBFrequency</key>
@@ -1552,19 +1552,19 @@
 			<key>PlatformName</key>
 			<string></string>
 			<key>SmcBranch</key>
-			<data>MjAxN21icAA=</data>
+			<data></data>
 			<key>SmcPlatform</key>
-			<data>ajEzMGEAAAA=</data>
+			<data>ajEzMgAAAAA=</data>
 			<key>SmcRevision</key>
-			<data>AkMPAAAQ</data>
+			<data></data>
 			<key>StartupPowerEvents</key>
 			<integer>0</integer>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,1</string>
+			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VQGYLHV29</string>
+			<string>C02W7XYXJHCC</string>
 			<key>SystemUUID</key>
-			<string>DC475350-F2CC-41E4-8ADF-61CA08BCFC52</string>
+			<string>951FC6C8-17DA-4494-8043-29C2FCDF810C</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -1573,7 +1573,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02747600J9HWVP1H</string>
+			<string>C02806101GUJH4RJA</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1583,28 +1583,28 @@
 			<key>SystemMemoryStatus</key>
 			<string>Upgradable</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,1</string>
+			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VQGYLHV29</string>
+			<string>C02W7XYXJHCC</string>
 			<key>SystemUUID</key>
-			<string>DC475350-F2CC-41E4-8ADF-61CA08BCFC52</string>
+			<string>951FC6C8-17DA-4494-8043-29C2FCDF810C</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
 			<key>BID</key>
-			<string>Mac-B4831CEBD52A0C4C</string>
+			<string>Mac-827FB448E656EC26</string>
 			<key>FirmwareFeatures</key>
-			<data>fvUP/wAAAAA=</data>
+			<data>JvSP/QgAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
-			<data>f/8f/wAAAAA=</data>
+			<data>P/+f/wgAAAA=</data>
 			<key>MLB</key>
-			<string>C02747600J9HWVP1H</string>
+			<string>C02806101GUJH4RJA</string>
 			<key>ROM</key>
 			<data>BB5k7zh+</data>
 			<key>SystemSerialNumber</key>
-			<string>C02VQGYLHV29</string>
+			<string>C02W7XYXJHCC</string>
 			<key>SystemUUID</key>
-			<string>DC475350-F2CC-41E4-8ADF-61CA08BCFC52</string>
+			<string>951FC6C8-17DA-4494-8043-29C2FCDF810C</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
